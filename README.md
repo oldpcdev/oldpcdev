@@ -1,4 +1,4 @@
-# My laptop is so old, and i'm so slack.
+# My laptop sucks, and i'm so slack to buy another. My english SUCKS too.
 
 <!---
 oldpcdev/oldpcdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
