@@ -4,6 +4,8 @@
 
 ## My favorite Distro: Ubuntu (https://ubuntu.com)
 
+### Blog: https://oldpcdev.blogspot.com/
+
 ### A special Thanks for @gustavoguanabara
 
 <!---
