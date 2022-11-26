@@ -1,4 +1,4 @@
-# My laptop sucks, and i'm so slack to buy another. My english SUCKS too.
+# My laptop sucks, and My english SUCKS too.
 
 ## My favorite IDE: Geany (https://geany.org)
 
