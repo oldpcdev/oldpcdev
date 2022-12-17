@@ -1,8 +1,10 @@
 # My laptop sucks, and My english SUCKS too.
 
-## My favorite IDE: Geany (https://geany.org)
+## My favorite IDE: Geany
 
-## My favorite Distro: Ubuntu (https://ubuntu.com)
+## My favorite Distro: Ubuntu
+
+## My favorite Browser: Firefox
 
 ### Blog: https://oldpcdev.blogspot.com/
 
