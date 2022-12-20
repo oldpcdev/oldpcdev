@@ -1,10 +1,12 @@
-# My laptop sucks, and My english SUCKS too.
+# My laptop sucks, and my english suck a lot.
 
 ## My favorite IDE: Geany
 
-## My favorite Distro: Ubuntu
+## My favorite Distro: Debian
 
 ## My favorite Browser: Firefox
+
+## Programming languages where I'm interessed: JavaScript and PHP.
 
 ### Blog: https://oldpcdev.blogspot.com/
 
